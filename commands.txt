@@ -1,0 +1,17 @@
+```
+Prepend all commands with !
+
+Misc (Blitzcrank Bot):
+  help            list of the commands
+  announcements   for announcements
+  events          for upcoming events
+
+Music (Sona Bot):
+  add     Add a song to the queue. Only accepts youtube links.
+  reset   Reset the queue. Deletes all songs in the queue.
+  list    List songs in the queue.
+  cancel  Cancel a song you requested, while it's in the queue. Enter the...
+  play    Play music.
+  pause   Pause the song. Enter the play command to resume.
+  skip    Vote to skip a song. The number of voters must exceed half the...
+```
