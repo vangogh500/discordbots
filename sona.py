@@ -1,4 +1,3 @@
-token = "MjMwNDg3MDQ1ODEyNzgxMDY4.CsyhTQ.0jpqPQ6lAxostyhhw3qXZ2x1_Es"
 voice_id = "164936005328044032"
 text_id = "231105748791197697"
 
