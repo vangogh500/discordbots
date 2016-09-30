@@ -1,5 +1,3 @@
-token = "MjI5NzQ5MDUyMzc4NTc4OTQ0.Cswl1Q.0ZEloYyO9zRG-y-3ZMaYSKfe88c"
-
 import discord
 from discord.ext import commands
 
